@@ -1,0 +1,4 @@
+./c-support/codesnippets/calloc_double_matrix.c
+./c-support/codesnippets/calloc_int_matrix.c
+./c-support/codesnippets/main.c
+./c-support/codesnippets/progress_bar.c
